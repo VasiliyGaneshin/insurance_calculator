@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Insurance Calculator</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="how_long_have_you_been_using_our_services">How long have you been using our services?</string>
+    <string name="one_year">One year</string>
+    <string name="two_years">Two years</string>
+    <string name="three_years">Three years</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="round_up_amount">Round up amount</string>
+    <string name="amount_insurance_result">Cost of insurance: %s</string>
+</resources>
